@@ -1,0 +1,56 @@
+.header{
+    position: fixed;
+    width: 100%;
+    z-index: 1;
+    background-color:white;
+}
+.header-image{
+    margin-top: 1em;
+    margin-left: 1em;
+    width: 2em;
+    height: 2em;
+}
+.header-imagesection{
+    float: left;
+}
+.header-titlesection{
+    float: left;
+    margin-top: 1em;
+    margin-left: 1em;
+    color: #c2bebe;
+    font-family: "Google Sans",Arial,sans-serif;
+    font-weight: bold;
+}
+.navbar{
+    margin-left: 11em;
+    margin-top: 0em;
+    
+}
+.navbar-navr{
+    font-weight: bold;
+    color: #c2bebe;
+    font-family: "Google Sans",Arial,sans-serif; 
+    text-decoration: none;
+    align-items: center;
+}
+.fa{
+    color:#c2bebe ;
+   
+    margin-top: 0.5em;
+    margin-left: 0em;
+    align-items: center;
+}
+.imagesection{
+    margin-top: 6em;
+   
+}
+.adtxt{
+    margin-top: 9em;
+    color: #c2bebe;
+    font-family: "Google Sans",Arial,sans-serif; 
+}
+.checkoutbutton{
+    margin-top: 0.5em;
+    margin-left: 0em;
+    align-items: center;
+}
