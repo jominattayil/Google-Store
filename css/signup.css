@@ -1,0 +1,46 @@
+.googlelogo{
+    width: 2em;
+    height: 2em;
+    align-items: center;
+    margin-top: 1em;
+    
+}
+.googlelogo-section{
+    align-items: center;
+}
+.background-square{
+    width: 30em;
+    height: 23.4em;
+    
+    text-align: center;
+    margin-left:8em;
+    margin-top: 10em;
+}
+.body{
+    background-color: red;
+}
+.bgcenter{
+    text-align: center;
+}
+.signup-form{
+    width: 30em;
+    height: 30em;
+    color:#6b6c6e ;
+    font-weight: bold;
+    font-family: "Google Sans",Arial,sans-serif;
+    padding: 2em;
+    
+}
+.imagesection{
+    margin-top: 2em;
+    width: 20em;
+    height: 20em;
+}
+.signuplink{
+    margin-left: 20em;
+}
+.signin-heading{
+    color:#6b6c6e ;
+    font-family: "Google Sans",Arial,sans-serif;
+    margin-top: 0.5em;
+}
